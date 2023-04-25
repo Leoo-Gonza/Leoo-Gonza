@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <h1 align="center">Hi there 👋, I'm Leoo-Gonza</h1>
+        <h1 align="center">Hi there 👋, I'm Leoo-Gonzalez</h1>
         <p align="center">Hello, my name is Leonel González and I am a junior front-end web developer. 
             I am passionate about creating functional and visually appealing user interfaces using the latest web development technologies.
             I  have experience in HTML, CSS, and JavaScript. 
