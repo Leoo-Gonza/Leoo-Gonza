@@ -10,13 +10,13 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/leonel-gonzalez-142829211/" >
-       <img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+       <img src=" https://github.com/argob/iconos/blob/master/src/_icons/linkedin-in.svg" alt="Linkedin Badge">
     </a>
     <a href="https://www.instagram.com/leoomgp/" >
-        <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+        <img src=" https://github.com/argob/iconos/blob/master/src/_icons/instagram-circular.svg" alt="Instagram Badge">
      </a>
      <a href="mailto:leooprograma@gmail.com" >
-        <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+        <img src=" https://github.com/argob/iconos/blob/master/src/_icons/mail-1.svg" alt="Gmail Badge">
      </a>
 </div>
 
@@ -42,5 +42,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;
 </div>
+
 
 
