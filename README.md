@@ -1,23 +1,22 @@
 <div id="header" align="center">
         <h1 align="center">Hi there 👋, I'm Leoo-Gonza</h1>
-        <h3 align="center">Hello, my name is Leonel González and I am a junior front-end web developer. I am passionate about creating functional and visually appealing user interfaces using the latest web development technologies.
+        <p align="center">Hello, my name is Leonel González and I am a junior front-end web developer. I am passionate about creating functional and visually appealing user interfaces using the latest web development technologies.
 
             I  have experience in HTML, CSS, and JavaScript. I am familiar with front-end development frameworks like React and Vue JS and have a good understanding of accessibility and cross-browser compatibility standards.
-                        
-            I am a fast learner and continually strive to improve my web development skills and knowledge. I'm an expert at writing clean, organized, and maintainable code, and I'm committed to delivering high-quality work within deadlines.
-            As a team player, I enjoy collaborating with designers and other developers to create exceptional user experiences. I have strong problem solving skills and pay attention to detail, which helps me troubleshoot and debug web applications efficiently.</h3>
+                                    
+            I am a fast learner and continually strive to improve my web development skills and knowledge. I'm an expert at writing clean, organized, and maintainable code, and I'm committed to delivering high-quality work within deadlines.</p>
 </div>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/leonel-gonzalez-142829211/" >
+
        <img src=" https://github.com/argob/iconos/blob/master/src/_icons/linkedin-in.svg" alt="Linkedin Badge">
-    </a>
-    <a href="https://www.instagram.com/leoomgp/" >
+    
+
         <img src=" https://github.com/argob/iconos/blob/master/src/_icons/instagram-circular.svg" alt="Instagram Badge">
-     </a>
-     <a href="mailto:leooprograma@gmail.com" >
+    
+
         <img src=" https://github.com/argob/iconos/blob/master/src/_icons/mail-1.svg" alt="Gmail Badge">
-     </a>
+     
 </div>
 
 ---
